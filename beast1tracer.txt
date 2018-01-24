@@ -1,0 +1,20 @@
+    82	Walter Xie
+    73	Andrew Rambaut
+    48	Guy Baele
+    25	Marc Suchard
+    18	Alexei Drummond
+Andrew Rambaut
+files changed: 182 lines inserted: 9088 lines deleted: 2302
+files changed: 122 lines inserted: 4878 lines deleted: 1356
+Walter Xie
+files changed: 53 lines inserted: 893 lines deleted: 598
+files changed: 191 lines inserted: 3545 lines deleted: 2491
+Guy Baele
+files changed: 21 lines inserted: 692 lines deleted: 218
+files changed: 35 lines inserted: 838 lines deleted: 171
+Marc Suchard
+files changed: 2 lines inserted: 3 lines deleted: 2
+files changed: 27 lines inserted: 2249 lines deleted: 587
+Alexei Drummond
+files changed: 0 lines inserted: 0 lines deleted: 0
+files changed: 39 lines inserted: 2166 lines deleted: 1534

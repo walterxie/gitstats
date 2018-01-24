@@ -6,18 +6,22 @@ Mac, Linux
 
 ## Preparation
 
-For multiple author filtering, run `git config --global grep.extendedRegexp true` to use extended regex. 
-https://forums.freebsd.org/threads/58555/
-
-
-## Scripts
-
-The number of commits listed by author:
+List the number of commits by authors and their emails:
 ```bash
-git shortlog -s | sort -nr
+git shortlog -e -s -n
 ```
 If there are multiple names or wrong names, use `.mailmap` to correct them:
 http://git-scm.com/docs/git-check-mailmap
+
+For multiple author filtering, run `git config --global grep.extendedRegexp true` to use extended regex. 
+https://forums.freebsd.org/threads/58555/
+
+## Scripts
+
+Sort the list by the number of commits:
+```bash
+git shortlog -s | sort -nr
+```
 
 For a subdirectory:
 ```bash
